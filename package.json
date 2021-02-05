@@ -1,0 +1,23 @@
+{
+  "name": "koa2-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuexiuyi/koa2-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuexiuyi/koa2-blog/issues"
+  },
+  "homepage": "https://github.com/yuexiuyi/koa2-blog#readme",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "koa-router": "^10.0.0"
+  }
+}
