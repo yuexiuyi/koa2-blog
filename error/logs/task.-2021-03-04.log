@@ -1,0 +1,88 @@
+[2021-03-04T15:41:17.736] [ERROR] cheese - ikcamp
+[2021-03-04T15:41:17.756] [INFO] cheese - 响应时间为0.035s
+[2021-03-04T15:41:17.799] [INFO] cheese - 响应时间为0.008s
+[2021-03-04T15:43:12.967] [ERROR] cheese - ikcamp
+[2021-03-04T15:43:12.985] [INFO] cheese - 响应时间为0.036s
+[2021-03-04T15:43:13.031] [INFO] cheese - 响应时间为0.012s
+[2021-03-04T15:44:26.201] [ERROR] cheese - ikcamp
+[2021-03-04T15:44:26.202] [INFO] cheese - 响应时间为0.002s
+[2021-03-04T15:44:26.271] [INFO] cheese - 响应时间为0.007s
+[2021-03-04T15:44:55.198] [ERROR] cheese - ikcamp
+[2021-03-04T15:44:55.215] [INFO] cheese - 响应时间为0.031s
+[2021-03-04T15:44:55.263] [INFO] cheese - 响应时间为0.007s
+[2021-03-04T15:45:02.506] [ERROR] cheese - ikcamp
+[2021-03-04T15:45:02.507] [INFO] cheese - 响应时间为0.002s
+[2021-03-04T15:45:02.552] [INFO] cheese - 响应时间为0.002s
+[2021-03-04T15:45:03.745] [ERROR] cheese - ikcamp
+[2021-03-04T15:45:03.746] [INFO] cheese - 响应时间为0.003s
+[2021-03-04T15:45:03.779] [INFO] cheese - 响应时间为0.001s
+[2021-03-04T15:45:04.721] [ERROR] cheese - ikcamp
+[2021-03-04T15:45:04.722] [INFO] cheese - 响应时间为0.002s
+[2021-03-04T15:45:04.752] [INFO] cheese - 响应时间为0.002s
+[2021-03-04T15:45:05.589] [ERROR] cheese - ikcamp
+[2021-03-04T15:45:05.589] [INFO] cheese - 响应时间为0.001s
+[2021-03-04T15:45:05.628] [INFO] cheese - 响应时间为0.003s
+[2021-03-04T15:45:06.469] [ERROR] cheese - ikcamp
+[2021-03-04T15:45:06.470] [INFO] cheese - 响应时间为0.001s
+[2021-03-04T15:45:06.504] [INFO] cheese - 响应时间为0.003s
+[2021-03-04T15:45:07.446] [ERROR] cheese - ikcamp
+[2021-03-04T15:45:07.447] [INFO] cheese - 响应时间为0.002s
+[2021-03-04T15:45:07.487] [INFO] cheese - 响应时间为0.004s
+[2021-03-04T15:45:08.351] [ERROR] cheese - ikcamp
+[2021-03-04T15:45:08.352] [INFO] cheese - 响应时间为0.002s
+[2021-03-04T15:45:08.391] [INFO] cheese - 响应时间为0.004s
+[2021-03-04T15:59:11.288] [ERROR] cheese - ikcamp
+[2021-03-04T15:59:11.290] [INFO] cheese - 响应时间为0.007s
+[2021-03-04T15:59:11.381] [INFO] cheese - 响应时间为0.003s
+[2021-03-04T15:59:13.237] [ERROR] cheese - ikcamp
+[2021-03-04T15:59:13.239] [INFO] cheese - 响应时间为0.003s
+[2021-03-04T15:59:13.276] [INFO] cheese - 响应时间为0.006s
+[2021-03-04T15:59:21.619] [ERROR] cheese - ikcamp
+[2021-03-04T15:59:21.640] [INFO] cheese - 响应时间为0.041s
+[2021-03-04T15:59:21.686] [INFO] cheese - 响应时间为0.013s
+[2021-03-04T16:01:05.653] [ERROR] cheese - ikcamp
+[2021-03-04T16:01:05.673] [INFO] cheese - 响应时间为0.033s
+[2021-03-04T16:01:05.780] [INFO] cheese - 响应时间为0.017s
+[2021-03-04T16:01:11.538] [ERROR] cheese - ikcamp
+[2021-03-04T16:01:11.538] [INFO] cheese - 响应时间为0.002s
+[2021-03-04T16:01:11.585] [INFO] cheese - 响应时间为0.006s
+[2021-03-04T16:01:12.676] [ERROR] cheese - ikcamp
+[2021-03-04T16:01:12.677] [INFO] cheese - 响应时间为0.002s
+[2021-03-04T16:01:12.713] [INFO] cheese - 响应时间为0.005s
+[2021-03-04T16:01:13.069] [ERROR] cheese - ikcamp
+[2021-03-04T16:01:13.069] [INFO] cheese - 响应时间为0.001s
+[2021-03-04T16:01:13.100] [INFO] cheese - 响应时间为0.004s
+[2021-03-04T16:01:13.334] [ERROR] cheese - ikcamp
+[2021-03-04T16:01:13.335] [INFO] cheese - 响应时间为0.001s
+[2021-03-04T16:01:13.369] [INFO] cheese - 响应时间为0.004s
+[2021-03-04T16:01:13.563] [ERROR] cheese - ikcamp
+[2021-03-04T16:01:13.564] [INFO] cheese - 响应时间为0.002s
+[2021-03-04T16:01:13.594] [INFO] cheese - 响应时间为0.001s
+[2021-03-04T16:01:13.794] [ERROR] cheese - ikcamp
+[2021-03-04T16:01:13.794] [INFO] cheese - 响应时间为0.001s
+[2021-03-04T16:01:13.827] [INFO] cheese - 响应时间为0.001s
+[2021-03-04T16:01:14.007] [ERROR] cheese - ikcamp
+[2021-03-04T16:01:14.008] [INFO] cheese - 响应时间为0.001s
+[2021-03-04T16:01:14.044] [INFO] cheese - 响应时间为0s
+[2021-03-04T16:01:14.707] [ERROR] cheese - ikcamp
+[2021-03-04T16:01:14.709] [INFO] cheese - 响应时间为0.003s
+[2021-03-04T16:01:14.744] [INFO] cheese - 响应时间为0.003s
+[2021-03-04T16:01:15.948] [ERROR] cheese - ikcamp
+[2021-03-04T16:01:15.950] [INFO] cheese - 响应时间为0.016s
+[2021-03-04T16:01:15.992] [INFO] cheese - 响应时间为0.006s
+[2021-03-04T16:01:19.119] [ERROR] cheese - ikcamp
+[2021-03-04T16:01:19.119] [INFO] cheese - 响应时间为0.002s
+[2021-03-04T16:01:19.159] [INFO] cheese - 响应时间为0.004s
+[2021-03-04T17:08:59.786] [ERROR] cheese - ikcamp
+[2021-03-04T17:11:21.287] [ERROR] cheese - ikcamp
+[2021-03-04T17:12:18.904] [ERROR] cheese - ikcamp
+[2021-03-04T17:16:01.530] [ERROR] cheese - ikcamp
+[2021-03-04T17:16:35.661] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"0.0.0.0","method":"POST","url":"/user/register","host":"localhost:3000","message":"ikcamp","referer":"http://localhost:3000/user","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"}
+[2021-03-04T17:16:35.682] [INFO] cheese - {"projectName":"koa2-tutorial","serverIp":"0.0.0.0","method":"POST","url":"/user/register","host":"localhost:3000","message":{"responseTime":"响应时间为0.04s"},"referer":"http://localhost:3000/user","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"}
+[2021-03-04T17:16:35.748] [INFO] cheese - {"projectName":"koa2-tutorial","serverIp":"0.0.0.0","method":"GET","url":"/home/main.css","host":"localhost:3000","message":{"responseTime":"响应时间为0.018s"},"referer":"http://localhost:3000/user/register","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"}
+[2021-03-04T17:24:48.203] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"0.0.0.0","method":"POST","url":"/user/register","host":"localhost:3000","message":"ikcamp","referer":"http://localhost:3000/user","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"}
+[2021-03-04T17:24:48.220] [INFO] cheese - {"projectName":"koa2-tutorial","serverIp":"0.0.0.0","method":"POST","url":"/user/register","host":"localhost:3000","message":{"responseTime":"响应时间为0.042s"},"referer":"http://localhost:3000/user","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"}
+[2021-03-04T17:24:48.319] [INFO] cheese - {"projectName":"koa2-tutorial","serverIp":"0.0.0.0","method":"GET","url":"/home/main.css","host":"localhost:3000","message":{"responseTime":"响应时间为0.058s"},"referer":"http://localhost:3000/user/register","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"}
+[2021-03-04T17:45:33.213] [ERROR] cheese - {"projectName":"koa2-tutorial","serverIp":"0.0.0.0","method":"GET","url":"/","host":"localhost:3000","message":"ikcamp","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"}
+[2021-03-04T17:45:33.239] [INFO] cheese - {"projectName":"koa2-tutorial","serverIp":"0.0.0.0","method":"GET","url":"/","host":"localhost:3000","message":{"responseTime":"响应时间为0.047s"},"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"}
+[2021-03-04T17:45:33.331] [INFO] cheese - {"projectName":"koa2-tutorial","serverIp":"0.0.0.0","method":"GET","url":"/home/main.css","host":"localhost:3000","message":{"responseTime":"响应时间为0.003s"},"referer":"http://localhost:3000/","userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36"}
